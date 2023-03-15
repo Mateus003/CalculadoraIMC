@@ -75,6 +75,7 @@
             android:layout_width="match_parent"
             android:textAlignment="center"
             android:textColor="@color/white"
+            android:inputType="numberDecimal"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/light_green"
             android:layout_below="@+id/text_cm"
