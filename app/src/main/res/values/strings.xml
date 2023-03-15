@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="reset">Resetar</string>
+    <string name="category_imc">Categoria IMC</string>
+    <string name="result_calc">Informe seus dados!</string>
+    <string name="calculate">Calcular</string>
+    <string name="height_cm">Altura (Cm)</string>
+    <string name="weight_kg">Peso (Kg)</string>
+    <string name="title_calculate_imc">Calculadora IMC</string>
+    <string name="fill_correct">Preencha os campos corretamente</string>
+    <string name="height_0">Digite um número maior que 0 para altura</string>
+    <string name="data_information">Informe seus dados!</string>
+
+    <string name="low_weight">Baixo peso</string>
+    <string name="normal_weight">Peso normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obesity_i">Obesidade grau I</string>
+    <string name="obesity_ii">Obesidade grau II</string>
+    <string name="obesity_iii">Obesidade grau III</string>
+
+
+
+
+</resources>
